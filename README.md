@@ -38,22 +38,22 @@ create a PAT, personal access token
 says:
 
 ```
-Password-based authentication for Git has been removed in favor of more secure authentication methods. 
+Password-based authentication for Git has been removed in favor of more secure authentication methods.
 ```
 
-Creating a personal access token: 
+Creating a personal access token:
 [create PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 See [stackoverflow](https://stackoverflow.com/a/68781050) :
 
 ```
-From your GitHub account, go to Settings 
+From your GitHub account, go to Settings
 =>
-Developer Settings => Personal Access Token 
+Developer Settings => Personal Access Token
 =>
-Generate New Token (Give your password) 
+Generate New Token (Give your password)
 =>
-Fillup the form => click Generate token 
+Fillup the form => click Generate token
 =>
 Copy the generated Token, it will be something like
 
@@ -76,13 +76,13 @@ On Password replace with with your GitHub Personal Access Token =>
 ```
 You are Done
 
-If you don’t find git:https://github.com 
+If you don’t find git:https://github.com
 
 ```
-Click on Add a generic credential 
+Click on Add a generic credential
 =>
-Internet address will be git:https://github.com 
-and you need to type in your username and password will be your GitHub Personal Access Token 
+Internet address will be git:https://github.com
+and you need to type in your username and password will be your GitHub Personal Access Token
 =>
 Click Ok
 ```
@@ -90,6 +90,6 @@ and you are done
 
 Two more tip:
 
-Open PAT permissions
+- Open PAT permissions
 
-use user name in Credential Manager
+- Use user name (not mail address) in Credential Manager
