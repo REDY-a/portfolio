@@ -34,7 +34,7 @@ Pushing to https://github.com/REDY-a/portfolio.git
 ### Solution
 
 create a PAT, personal access token
-[github ocs](https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password)
+[github docs](https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password)
 says:
 
 ```
@@ -88,7 +88,7 @@ Click Ok
 ```
 and you are done
 
-Two more tip:
+Two more tips:
 
 - Open PAT permissions
 
